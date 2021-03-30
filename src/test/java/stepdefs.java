@@ -12,6 +12,7 @@ class Stepdefs {
     @Given("^today is Sunday$")
     public void today_is_Sunday() throws Exception {
         System.out.println("given print line");
+		System.out.println("given print line");
         // Write code here that turns the phrase above into concrete actions
         throw new PendingException();
     }
